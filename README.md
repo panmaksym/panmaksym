@@ -94,6 +94,7 @@ Currently, I am working on building the backend of an HRMS platform from scratch
 - **Firmware Development**:  
     I'm enhancing my skills in firmware development with **C/C++** for microcontrollers. I aim to master writing efficient, reliable firmware for various embedded platforms, with a focus on stability and performance.
 
+****
 
 ### My projects I am working on 
 
