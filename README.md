@@ -4,7 +4,7 @@
 
 ### About Me 
 
-Hello, I am a developer with more than 5 years of experience in various programming fields. During this time, I've tried my hand at many things and worked in such areas as computer application development, working with the Android Open Source Project (AOSP), as well as developing HRMS and CRM systems. However, after studying and working with various technologies, I realized that I like backend development, system and embedded programming the most. These are the areas I focus most of my time on now, as they allow me to solve technically complex problems, create productive and reliable solutions. My goal is to continue improving my skills in these areas, creating efficient and sustainable systems that can scale and adapt to new challenges. 
+I am a developer with more than 5 years of experience in various programming fields. During this time, I've tried my hand at many things and worked in such areas as computer application development, working with the Android Open Source Project (AOSP), as well as developing HRMS and CRM systems. However, after studying and working with various technologies, I realized that I like backend development, system and embedded programming the most. These are the areas I focus most of my time on now, as they allow me to solve technically complex problems, create productive and reliable solutions. My goal is to continue improving my skills in these areas, creating efficient and sustainable systems that can scale and adapt to new challenges. 
 
 ---
 - 💻 Main focus: back-end development, system programming, embedded systems. 
