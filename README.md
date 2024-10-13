@@ -27,10 +27,10 @@ Hello, I am a developer with more than 5 years of experience in various programm
 - **Networking Tools**: Netcat
 
 ### Tech Skills
-**С++**: С++98/11/14/17/20/23, GoogleTest, Cmake, STL, Boost, Qt 
-**С**: C99/C11, GCC/Clang, Make
-**Rust**: Cargo, actix, serde, tokio, axum, diesel
-**DB**: MySQL, PostgreSQL, SQLite, MongoDB
+- **С++**: С++98/11/14/17/20/23, GoogleTest, Cmake, STL, Boost, Qt 
+- **С**: C99/C11, GCC/Clang, Make
+- **Rust**: Cargo, actix, serde, tokio, axum, diesel
+- **DB**: MySQL, PostgreSQL, SQLite, MongoDB
 
 ****
 ### Professional Experience
